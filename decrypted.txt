@@ -1,0 +1,5 @@
+你好，AES 加密测试！
+Hello, AES! 123456
+数字：0123456789
+字母：abcdefghijklmnopqrstuvwxyz
+符号：~!@#￥%……&*（）——+【】，。、《》？空格  空格
